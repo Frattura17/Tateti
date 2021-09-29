@@ -1,0 +1,8 @@
+
+ div.row > .col-4:hover{
+    color:rgb(0, 0, 0) !important;
+}
+.game-cell {
+    font-size: 4.5rem;
+    text-align: center;
+}
